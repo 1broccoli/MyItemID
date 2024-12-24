@@ -1,4 +1,12 @@
 Item ID Viewer is a simple yet effective addon that displays the item ID of any item in the game. The addon places a clickable frame on the player's screen, which will dynamically update to show the item ID of the item the player hovers over or interacts with. This allows players to quickly and easily identify item IDs without needing to dig through external resources.
+
+/itemid - Displays available options.
+/itemid color on/off - Toggles text color to match item quality.
+/itemid show/hide - Shows or hides the IDDisplay frame.
+/itemid reset - Resets all settings to default.
+/itemid scale [1-10] - Sets the frame scale.
+/itemid bg [1-10] - Sets the transparency of the frame.
+
 Features:
 
     On-Screen Item ID Display: A movable frame that shows the item ID of any item the player interacts with.
