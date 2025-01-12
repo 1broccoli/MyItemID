@@ -1,8 +1,10 @@
 ## Interface: 11404
-## Title: My Item ID
-## Notes: Displays spell and item IDs on mouseover
-## Author: Broccoli
-## Website https://github.com/1broccoli/MyItemID
-## Version: 1.0
+## Title: |cffff8000My Item ID|r
+## Notes: |cff00FFFFDisplays Shows item IDs|r
+## Author: |cffe6cc80Pegga|r (|cff1eff00Broccoli|r)
+## Website: https://github.com/1broccoli/MyItemID
+## Version: 1.2
+## SavedVariables: MyItemID_SavedVariables
+## X-Compatible-With: 11302, 20501, 30402, 90002
 
 MyItemID.lua
